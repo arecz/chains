@@ -1,0 +1,7 @@
+C:\Users\nedar\source\repos\Chains\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\nedar\source\repos\Chains\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\nedar\source\repos\Chains\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\nedar\source\repos\Chains\ConsoleApp2\obj\Debug\Chains.csprojResolveAssemblyReference.cache
+C:\Users\nedar\source\repos\Chains\ConsoleApp2\obj\Debug\Chains.csproj.CoreCompileInputs.cache
+C:\Users\nedar\source\repos\Chains\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\nedar\source\repos\Chains\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
